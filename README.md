@@ -2,7 +2,7 @@
 
 ## Overview
 This Power BI project analyzes bank performance using two datasets:
-1. Quarterly financial data by Sol ID (Demo.csv)
+1. Quarterly financial data by Sol ID 
 2. City-wise market and bank deposit data
 
 ## Key Features
