@@ -27,6 +27,3 @@ This Power BI project analyzes bank performance using two datasets:
 1. Clone repository
 2. Open .pbix file in Power BI Desktop
 3. Refresh data sources if needed
-
-## Contributors
-Mohd Hammad
